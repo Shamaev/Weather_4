@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="city_name">Иваново</string>
+    <string name="data">Вторник, 24 марта 2020</string>
+    <string name="temperature">+2°</string>
+    <string name="speed">Скорость ветра</string>
+    <string name="speed_info">3.2 м/с</string>
+</resources>
