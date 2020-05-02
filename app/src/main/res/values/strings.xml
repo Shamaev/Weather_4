@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Weather_v_0.8</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_search">Search</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="menu_story">Story</string>
+    <string name="menu_author">Author</string>
+    <string name="search">Search</string>
+    <string name="star">Star</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
